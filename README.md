@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: (HE/HIM/HIS)
 - ⚡ Fun fact: I post memes too
 -->
-![277437922_3123151264566163_5684877251352633481_n](https://user-images.githubusercontent.com/96332895/172714366-63b86a89-d295-4765-b6fe-0c0e2df38f83.jpg)
