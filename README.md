@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [https://twitter.com/Kingsley__Andy] or [https://www.linkedin.com/in/kingsley-andy-0957a11a9]
 - 😄 Pronouns: (HE/HIM/HIS)
 - ⚡ Fun fact: I post memes too
--->
+
