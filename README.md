@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Kingsley Andy
 
-![Banner](https://user-images.githubusercontent.com/xyz/banner.jpg)
-
 ## Let's CONNECT!!
 
 - 🔭 **I am a Data Analyst, Data Scientist, and Power Platform Developer**
