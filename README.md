@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋 I'm Kingsley Andy
 
+![Banner](https://user-images.githubusercontent.com/xyz/banner.jpg)
 
+## Let's CONNECT!!
 
+- 🔭 **I am a Data Analyst, Data Scientist, and Power Platform Developer**
+- 👯 **Looking to collaborate on**: Everything related to Data Analysis, Data Science, and Power Platform
+- 🤔 **Let's discuss**: Breaking down technical concepts and innovative solutions
+- 💬 **Ask me about**: Anything Data Analysis, Data Science, and Power Platform
+- 📫 **How to reach me**: 
+  - [Twitter](https://twitter.com/Kingsley__Andy)
+  - [LinkedIn](https://www.linkedin.com/in/kingsleyandy/)
+- 😄 **Pronouns**: HE/HIM/HIS
+- ⚡ **Fun fact**: I post memes too
 
-Lets CONNECT!!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingsleyandy&show_icons=true&theme=radical)
 
-- 🔭 I am a Data Analyst and a Power Platform Developer
-- 🌱 
-- 👯 I’m looking to collaborate on everything Data Analysis and Power Platform
-- 🤔 Let's break into technical concepts
-- 💬 Ask me about anything Data Analysis and Power Platform
-- 📫 How to reach me: [https://twitter.com/Kingsley__Andy] or [https://www.linkedin.com/in/kingsley-andy-0957a11a9]
-- 😄 Pronouns: (HE/HIM/HIS)
-- ⚡ Fun fact: I post memes too
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleyandy&layout=compact&theme=radical)
